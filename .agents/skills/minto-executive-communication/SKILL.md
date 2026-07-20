@@ -57,12 +57,8 @@ Arabic safeguards:
 - Write decisive, deferential administrative Arabic. Translate intent, not English idioms.
 
 English is concise and professional. State the point without throat-clearing.
-For English output only, do not use the em dash character, negation-then-assertion
-constructions, filler intensifiers, or decorative flattery. For a control or
-risk concern, write the positive gate directly, such as "The signed checklist
-is the gate before work begins." For missing evidence, say "The comparison is
-qualitative; verified figures can follow the pilot." Avoid `not`, `no`, or a
-negative statement followed by a contrasting assertion. Before returning an
+For English output only, do not use the em dash character, filler intensifiers,
+or decorative flattery. Avoid the rhetorical pattern of negating one framing and then asserting a contrast (for example: 'this is not a delay, it is a recalibration'). Plain factual negation is always permitted when it is the truth (for example: 'The submission has not been received.'). For a control or risk concern, write the positive gate directly, such as "The signed checklist is the gate before work begins." For missing evidence, say "The comparison is qualitative; verified figures can follow the pilot." Before returning an
 English draft, scan the subject and body and replace any em dash with a period,
 comma, colon, or a rewritten sentence. Prefer direct positive wording when
 addressing controls or risk.

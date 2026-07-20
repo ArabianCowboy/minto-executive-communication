@@ -31,6 +31,7 @@ symlinked mirror for Claude Code compatibility. Do not create another copy.
 - **Claude Code:** copy or symlink the skill directory to
   `.claude/skills/minto-executive-communication/` for one project, or to
   `~/.claude/skills/minto-executive-communication/` for personal use.
+  Note for Windows: if the .claude/skills/ entry does not resolve as a link after cloning, either enable symlinks (git config core.symlinks true before checkout, with Developer Mode on) or simply copy the canonical folder from .agents/skills/minto-executive-communication/ into .claude/skills/.
 - **claude.ai Projects:** paste the contents of `SKILL.md` into Project
   instructions, or upload it as Project knowledge and reference it in the
   instructions.
