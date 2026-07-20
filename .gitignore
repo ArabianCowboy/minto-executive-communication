@@ -1,0 +1,12 @@
+# macOS and OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated visual artifacts
+minto-exec-*.html

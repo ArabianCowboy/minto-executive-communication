@@ -1,0 +1,8 @@
+# Optional Codex-specific metadata; not part of the core Agent Skills standard.
+interface:
+  display_name: "Minto Executive Communication"
+  short_description: "Draft answer-first executive messages in Arabic or English"
+  default_prompt: "Draft a ready-to-send executive message using the appropriate message tier."
+
+policy:
+  allow_implicit_invocation: true
